@@ -1,4 +1,4 @@
-# 🐍 Python Journey 100× — From Beginner to Pro
+# 🐍 Python Journey 100× — A Deep Refresh Into Python
 
 > A 100-day commitment to mastering Python by building real-world projects, from basics to full-stack apps and data science.
 
